@@ -1,7 +1,7 @@
 # RPA Backlog
 The purpose of this project is to automate the creation of the Electronic Backlog Report. This report uses an Excel Macros to summary and visualize the data from the ticketing application OCPM. Getting the raw data from OCPM is a dull, repetitive process which is prone to user error. Using RPA (Robotic Process Automation) principles we identified this process as a perfect candidate for automation.
 ## Getting Started
-The project is written in Python and relies on the [Pyautogui](https://pyautogui.readthedocs.io/en/latest/) module to automate the tasks. Pyautogui allows the programmer to interact with elements on the screen. It allows for text input, mouse movement and click actions, as well as pattern matching of screen contents. To install Pyautogui on your Python environment use the command below.
+The project is written in Python and relies on the [Pyautogui](https://pyautogui.readthedocs.io/en/latest/) module to automate the tasks. Pyautogui allows the programmer to interact with elements on the screen, input text, move the mouse, perform clicks, as well as pattern matching of screen contents. To install Pyautogui on your Python environment use the command below.
 ```
     pip install pyautogui
 ```
