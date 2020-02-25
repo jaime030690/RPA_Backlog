@@ -6,7 +6,7 @@ The project is written in Python and relies on the [Pyautogui](https://pyautogui
     pip install pyautogui
 ```
 ## Resources
-Due to security concerns we had to ignore the `Resources` directory and `params.py` file. The `Resources` directory contain screenshots of OCPM which is an IBM confidential application; the `params.py` file contains a list with the names of work queues. All of this information is confidential.
+Due to security concerns we had to ignore the `Resources` directory and `params.py` file. The `Resources` directory contain screenshots of OCPM which is an IBM confidential application; the `params.py` file contains a list with the names of work queues.
 ## How It Works
 Below is a rough breakdown of the tasks needed to generate the Electronic Backlog Report.
 1. Run query in OCPM with all Electronic queue names
